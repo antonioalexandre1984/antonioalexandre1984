@@ -2,7 +2,7 @@
 
 
 **antonioalexandre1984/antonioalexandre1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... desenvolvimento de aplicações em React, NextJs,Typescript,javasript
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</div>
+
 
 <div>
 <a href="https://github.com/antonioalexandre1984">
