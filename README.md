@@ -1,6 +1,6 @@
 ### Olá tudo bem? Eu sou o Antonio,apaixonado por tecnologia,atualmente desenvolvendo aplicações para web, sempre em buscar de evoluir para tornar o código o mais limpo e claro possivel.👋
 
-<!--
+
 **antonioalexandre1984/antonioalexandre1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
