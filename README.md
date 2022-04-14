@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/antonioalexandre1984/antonioalexandre1984/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### Olá tudo bem? Eu sou o Antonio,apaixonado por tecnologia,atualmente desenvolvendo aplicações para web, sempre em buscar de evoluir para tornar o código o mais limpo e claro possivel.👋
