@@ -5,7 +5,7 @@
 <div>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... desenvolviemnto de aplicações em React, NextJs,Typescript,javasript
+- 🔭 I’m currently working on ... desenvolvimento de aplicações em React, NextJs,Typescript,javasript
 - 🌱 I’m currently learning ... curso desenvolvedor web Digital House
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
